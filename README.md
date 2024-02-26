@@ -2,7 +2,7 @@
 
 #rakesh-kumar-1205
 
-![Profile Picture](path/to/picture.jpg)
+![Profile Picture](C:\Users\swain\OneDrive\Pictures\rakesh1.jpg)
 
 <h3>🚀 About Me</h3>
 - 🔭 &nbsp; I’m currently learning Django framework for Web Development. <br>
